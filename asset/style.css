@@ -1,0 +1,12 @@
+body{
+    display: flex;
+}
+.map{
+    width: 75%;
+    margin: 0 auto;
+    border-left: 1px solid black;
+    text-align: center;
+}
+#map{
+    height: 100%;
+}
